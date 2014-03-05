@@ -1,4 +1,6 @@
-# Similaridad de nombres de productos (PoC para mgaitan/preciosa]
+# Similaridad de nombres de productos (para @preciosaapp)
+
+Issue relacionado: https://github.com/mgaitan/preciosa/issues/80
 
 ## Instalación
 
